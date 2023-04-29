@@ -1,4 +1,4 @@
-To run the site on your local server, follow the following steps.
+#To run the site on your local server, follow the following steps.
 
 
 1. Clone the repository to your local system.
