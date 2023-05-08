@@ -1,9 +1,11 @@
-import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.min.js";
+import { Cover } from "./components/cover";
 
 function App() {
 	return (
 		<>
-			<h1>Hello World</h1>
+			<Cover />
 		</>
 	);
 }

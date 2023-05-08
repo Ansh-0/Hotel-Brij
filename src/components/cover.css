@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.cover {
+	min-width: 100vw;
+	min-height: 100vh;
+	background: linear-gradient(rgba(80, 89, 10, 0.468), rgba(0, 0, 0, 0.392)),
+		url("../assets/cover-img.jpg") center center / cover no-repeat;
+}
