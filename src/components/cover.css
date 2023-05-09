@@ -7,6 +7,17 @@
 .cover {
 	min-width: 100vw;
 	min-height: 100vh;
-	background: linear-gradient(rgba(80, 89, 10, 0.468), rgba(0, 0, 0, 0.392)),
+	background: linear-gradient(
+			rgba(148, 164, 24, 0.496),
+			rgba(194, 210, 18, 0.414)
+		),
 		url("../assets/cover-img.jpg") center center / cover no-repeat;
+}
+
+.custom-nav {
+	min-height: 7vh;
+}
+
+.banner {
+	min-height: 93vh;
 }
